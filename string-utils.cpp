@@ -1,6 +1,5 @@
 #include "string_utils.h"
 #include <sstream>
-
 #include <iomanip>
 
 using namespace std;

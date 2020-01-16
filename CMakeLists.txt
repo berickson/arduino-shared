@@ -9,8 +9,8 @@ link_directories(/usr/local/lib)
 
 set(CPP_FILES
     logger.cpp
-    web_server.cpp
-    string_utils.cpp
+    web-server.cpp
+    string-utils.cpp
     system.cpp
     main.cpp
 )
