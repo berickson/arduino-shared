@@ -12,6 +12,7 @@ set(CPP_FILES
     web_server.cpp
     string_utils.cpp
     system.cpp
+    main.cpp
 )
 add_executable(web-server ${CPP_FILES})
 target_compile_options(web-server PRIVATE -Wno-psabi)
